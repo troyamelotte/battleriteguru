@@ -1,0 +1,13 @@
+{
+  "name": "battlerite",
+  "version": "1.0.0",
+  "description": "a battlerite guide site",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "troy amelotte, chris pelayo",
+  "license": "ISC"
+}
